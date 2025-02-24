@@ -38,7 +38,7 @@ docker run --rm streamly
 You can add new news sources by implementing a new driver in the `scraper/` directory. Each driver should follow the existing structure to ensure compatibility.
 
 ### 📜 License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the MIT License.
 
 ### 🤝 Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue to suggest improvements.
